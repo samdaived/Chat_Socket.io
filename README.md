@@ -1,6 +1,8 @@
 # Chat_app
 Chat App
 
+*https://chat8app.herokuapp.com You can try it here
+
 In this app the you can create we room and chat with the friend in the same room
 
 # npm install
